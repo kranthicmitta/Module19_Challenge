@@ -43,6 +43,7 @@ typing
  This is to pay cryptocurrency to fintech professionals for their work.
  
 
+![ui_front_page.png](ui_front_page.png)
 
 
 
